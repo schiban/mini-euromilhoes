@@ -1,5 +1,5 @@
 # Mini Euromilhões
-Group work with Fábio Oliveira for the subject "Programming Fundamentals" (Fundamentos de Programação (1ºano))
+Group work with Fábio Oliveira for the subject "Programming Fundamentals" (Fundamentos de Programação - 1ºano)
 
 https://replit.com/@Schiban/mini-euromilhoes?v=1
 
